@@ -1,0 +1,24 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Posts on Deduce Vim Mono",
+    "description": "Recent content in Posts on Deduce Vim Mono",
+    "home_page_url" : "https://example.org/",
+    "feed_url" : "https://example.org/posts/index.json",
+    "icon" : "https://example.org/apple-touch-icon.png",
+    "favicon" : "https://example.org/apple-touch-icon.png",
+    "author" : {
+        "name" : "Novem Duodecim",
+        "url": "https://kruasan.bandcamp.com/",
+        "avatar": "https://example.org/img/Phos.jpg"
+    },
+    "items" : [
+    {
+        "title" : "A blogue",
+        "date_published" : "2020-07-07T23:03:04+03:00",
+        "date_modified" : "2020-07-07T23:03:04+03:00",
+        "id" : "https://example.org/posts/a-blogue/",
+        "url" : "https://example.org/posts/a-blogue/",
+        "content_html" : "\u003cp\u003eDeduce vim mono is an anagram of novem duodecim, which means \u0026ldquo;nine dozen\u0026rdquo; in Latin.\nNine dozen is \u003ca href=\"https://en.wikipedia.org/wiki/108_(number)#Buddhism\"\u003e108\u003c/a\u003e.\u003c/p\u003e\n"
+    }
+    ]
+}

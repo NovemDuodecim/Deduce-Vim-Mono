@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deduce Vim Mono</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Deduce Vim Mono</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Tue, 07 Jul 2020 23:03:04 +0300</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A blogue</title>
+      <link>https://example.org/posts/a-blogue/</link>
+      <pubDate>Tue, 07 Jul 2020 23:03:04 +0300</pubDate>
+      <guid>https://example.org/posts/a-blogue/</guid>
+      <description>&lt;p&gt;Deduce vim mono is an anagram of novem duodecim, which means &amp;ldquo;nine dozen&amp;rdquo; in Latin.
+Nine dozen is &lt;a href=&#34;https://en.wikipedia.org/wiki/108_(number)#Buddhism&#34;&gt;108&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
